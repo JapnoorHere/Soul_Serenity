@@ -1,19 +1,19 @@
+This is my first Freelancing Project
+
 # Soul_Serenity
 
-1.This is my first Freelancing Project, Soul Serenity App. 
+1.This is a comprehensive platform designed to promote mental and emotional well-being through the practice of mudra, meditation, and motivational content.
 
-2.This is a comprehensive platform designed to promote mental and emotional well-being through the practice of mudra, meditation, and motivational content.
+2.Admin can upload daily motivational videos and meditation videos.
 
-3.Admin can upload daily motivational videos and meditation videos.
-
-4.Users can explore mudras for different purposes, such as stress relief, concentration, balance, and they are available in 3 languages -> 
+3.Users can explore mudras for different purposes, such as stress relief, concentration, balance, and they are available in 3 languages -> 
 <ul>
   <li> <b>Punjabi </b></li>
   <li> <b>English </b></li>
   <li> <b>Hindi </b></li>
 </ul>
 
-5.The daily motivation videos section features an array of uplifting and inspirational videos by Vivek Joshi.
+4.The daily motivation videos section features an array of uplifting and inspirational videos by Vivek Joshi.
 
 6.Users can access the app's resources anytime, anywhere, allowing them to incorporate mindfulness practices into their daily routines.
 
